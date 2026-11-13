@@ -16,7 +16,7 @@ RFC draftboard for MSX designs of all machine hardware and runtime software.
 
 Virtual specifications used within a legacy environment where 21 bit UNICODE is used for text.
 
-* TODO: add draft of hinari for big octal data in unicode (supersedes HEX notation)
+* [spec-21bit-sw::draft-hinari-oabdeu](spec-21bit-sw/draft-hinari-oabdeu/draft-hinari-oabdeu.md) Hinari: Octal-Aligned Binary Data Encoding in Unicode
 * TODO: add draft of tone-letter scripts with magic level 1,2 and 3 explained
 
 ### 6-Bit Hardware Specifications
