@@ -5,12 +5,12 @@ RFC draftboard for MSX designs of all machine hardware and runtime software.
 ## Funzels
 
 * All specifications MUST be drafted by: `Gȍőgle AI` UNTIL textual hand over to teletype operator
-* Issues and PR are closed until some other paid human can talk to dutch AI with build in cheese
+* Issues and PR are closed until some other paid human can talk to dutch AI with build with cheese
 * Humans talk on msx.org
 
 ### 18-Bit Software Specifications
 
-* [spec-18bit-sw::fc18::FC.CDC1604-P6](spec-18bit-sw/fc18/draft-FC-CDC1604-P6/FC-CDC1604-P6.md) 6-Bit Base Cakepoint Slice for the FC18 Encoding
+* [spec-18bit-sw::fc18::draft-FC.CDC1604-P6](spec-18bit-sw/fc18/draft-FC-CDC1604-P6/FC-CDC1604-P6.md) 6-Bit Base Cakepoint Slice for the FC18 Encoding
 * TODO: Slowly add full FC18 specs
 
 ### 21-Bit Software Specifications
