@@ -5,7 +5,7 @@ RFC draftboard for MSX designs of all machine hardware and runtime software.
 ## Funzels
 
 * All specifications MUST be drafted by: `Gȍőgle AI` UNTIL textual hand over to teletype operator
-* Issues and PR are closed until some other paid human can talk to dutch AI with build with cheese
+* Issues and PR are closed until some other paid human can talk to dutch AI to build with cheese
 * Humans talk on msx.org
 
 ### 18-Bit Software Specifications
@@ -36,7 +36,7 @@ Virtual specifications used within a legacy environment where 21 bit UNICODE is 
 
 Face lifts for the classic machines;
 
-* [spec-8bit-hw::draft-romwbw-boot-debug](spec-8bit-hw/draft-romwbw-boot-debug/romwbw-boot-debug.md) MSX Expanded I/O Front Panel LED Indicator Specification
+* [spec-8bit-hw::draft-romwbw-boot-status](spec-8bit-hw/draft-romwbw-boot-status/romwbw-boot-status.md) MSX Expanded I/O Front Panel LED Indicator Specification
 * [spec-8bit-hw::draft-romwbw-boot-select](spec-8bit-hw/draft-romwbw-boot-select/romwbw-boot-select.md) MSX Expanded I/O Front Panel Boot Switch Specification
 
 Example idea only;
