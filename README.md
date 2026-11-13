@@ -10,7 +10,8 @@ RFC draftboard for MSX designs of all machine hardware and runtime software.
 
 ### 18-Bit Software Specifications
 
-* TODO add draft of first cake slice of FC18 - Tower:FC.CDC1604-P6
+* [spec-18bit-sw::fc18::FC.CDC1604-P6](spec-18bit-sw/fc18/draft-FC-CDC1604-P6/FC-CDC1604-P6.md) 6-Bit Base Cakepoint Slice for the FC18 Encoding
+* TODO: Slowly add full FC18 specs
 
 ### 21-Bit Software Specifications
 
