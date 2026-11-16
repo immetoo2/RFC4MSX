@@ -9,6 +9,14 @@ RFC draftboard for MSX designs of all machine hardware and runtime software.
 * Issues and PR are closed until some other paid human can talk to dutch AI to build with cheese
 * Humans talk on msx.org
 
+## MSX4
+
+Unlimited size matrix computing based on octals and 144 bit native numbers.
+
+Designed for PI/TAU/ATARI folding into 8D space, or 4 sides with two planes of vectors into stable inf navigation.  
+Here is a banana image trying to render rational numbers with Hebrew on a qube;  
+[spec-144bit-hw::msx4::7HFF::anaglyph-qube](spec-144bit-hw/msx4/7HFF/anaglyph-qube-7HFF.png)
+
 ### 18-Bit Software Specifications
 
 * [spec-18bit-sw::fc18::draft-FC.CDC1604-P6](spec-18bit-sw/fc18/draft-FC-CDC1604-P6/FC-CDC1604-P6.md) 6-Bit Base Cakepoint Slice for the FC18 Encoding
