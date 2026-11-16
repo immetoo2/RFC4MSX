@@ -131,22 +131,7 @@ Continuous Contour Ligature Shaping via Directional Script Run Anchoring (TLM-L3
 
 ![eclipse](jdatstart-xmas-mark-line.png)
 
-	<?xml version="1.0" encoding="UTF-8"?>
-	<jnlp spec="1.0+" codebase="hyper:ᐊ˥˧˧˨˨˥˥˧˥˥˧˧˥˥˧˦˦˩˩˧˥˦˧˥˩˧˥˩˧˧˩˨˨˨˧˧˩˥˧˥˩˧˩˩˥˥˧˩˩˧˩˥˧˥˥˧˧˨˨˧˨˨ᐅ/app/1.0/">
-	<!-- NOTE: ONLY THE XML EDITOR OF ECLIPSE RENDERING 3th level of unicode tone letter magic...
-	Level1: hyper:ᐊ˥˧˧˨˨˥˥˧˥˥˧˧˥˥˧˦˦˩˩˧˥˦˧˥˩˧˥˩˧˧˩˨˨˨˧˧˩˥˧˥˩˧˩˩˥˥˧˩˩˧˩˥˧˥˥˧˧˨˨˧˨˨ᐅ/app/1.0/
-	Level2: ˥˧˧˨˨˥˥˧˥˥˧˧˥˥˧˦˦˩˩˧˥˦˧˥˩˧˥˩˧˧˩˨˨˨˧˧˩˥˧˥˩˧˩˩˥˥˧˩˩˧˩˥˧˥˥˧˧˨˨˧˨˨
-	 -->
-		<information>
-			<title>Hello</title>
-			<vendor>Example</vendor>
-		</information>
-		<resources>
-			<j2se version="1.2+" />
-			<jar href="hello.jar" main="true" />
-		</resources>
-		<application-desc />
-	</jnlp>
+[jdatstart.xml](jdatstart.xml)
 
 #### 4.1.  Trigger Conditions and Environment
 
