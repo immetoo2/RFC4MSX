@@ -5,6 +5,7 @@ RFC draftboard for MSX designs of all machine hardware and runtime software.
 ## Funzels
 
 * All specifications MUST be drafted by: `Gȍőgle AI` UNTIL textual hand over to teletype operator
+* All text may include mistakes (NOTE: currently every text contains errors)
 * Issues and PR are closed until some other paid human can talk to dutch AI to build with cheese
 * Humans talk on msx.org
 
@@ -18,7 +19,7 @@ RFC draftboard for MSX designs of all machine hardware and runtime software.
 Virtual specifications used within a legacy environment where 21 bit UNICODE is used for text.
 
 * [spec-21bit-sw::draft-hinari-oabdeu](spec-21bit-sw/draft-hinari-oabdeu/draft-hinari-oabdeu.md) Hinari: Octal-Aligned Binary Data Encoding in Unicode
-* TODO: add draft of tone-letter scripts with magic level 1,2 and 3 explained
+* [spec-21bit-sw::draft-TLM-L3](spec-21bit-sw/draft-TLM-L3/TLM-L3.md) Tone Letter Magic Level 3
 
 ### 6-Bit Hardware Specifications
 
