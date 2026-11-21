@@ -10,7 +10,7 @@ None native English speaker writes stone kale phrases;
 * All text may include mistakes (as its currently free single prompt output)
 * Issues and PR are closed until some other paid human can talk to dutch AI to build with cheese
 * Humans talk on msx.org
-* [Prompt for student](spec-21bit-sw/draft-hypothesis-student/draft-hypothesis-student.md) Bereshit Love
+* Bereshit Love [Prompt for student](spec-21bit-sw/draft-hypothesis-student/draft-hypothesis-student.md)
 
 ## MSX4
 
@@ -75,6 +75,6 @@ Example idea only;
 
 In time all devices of the MSX++ are also written out;
 
-* [spec-8bit-hw::msx2::expanded-io-ports](spec-8bit-hw/expanded-io-ports/expanded-io-ports.md) MSX Expansion I/O Port Specification
-* [spec-8bit-hw::msx2::memory-mapper](spec-8bit-hw/memory-mapper/memory-mapper.md) MSX Memory Mapper Specification
+* [spec-8bit-hw::msx2::expanded-io-ports](spec-8bit-hw/msx2/expanded-io-ports/expanded-io-ports.md) MSX Expansion I/O Port Specification
+* [spec-8bit-hw::msx2::memory-mapper](spec-8bit-hw/msx2/memory-mapper/memory-mapper.md) MSX Memory Mapper Specification
 
